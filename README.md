@@ -1,5 +1,4 @@
 GROUP MEMBERS
-
 Joshua Raphael Gayoba
 
 # Welcome to your Expo app 👋

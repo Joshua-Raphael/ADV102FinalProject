@@ -1,16 +1,16 @@
 ## **GROUP MEMBERS:**
 
-## Joshua Raphael Gayoba
+## 1. Joshua Raphael Gayoba
 
-## Ira Llanto
+## 2. Ira Llanto
 
-## Chunsy Pantillo
+## 3. Chunsy Pantillo
 
-## Jenny Lou Ortega
+## 4. Jenny Lou Ortega
 
-## Lesther Quimpan 
+## 5. Lesther Quimpan 
 
-## Ira Jane Matucading
+## 6. Ira Jane Matucading
 
 # Welcome to your Expo app 👋
 

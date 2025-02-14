@@ -1,5 +1,6 @@
-GROUP MEMBERS \n
-#Joshua Raphael Gayoba
+GROUP MEMBERS
+
+Joshua Raphael Gayoba
 
 # Welcome to your Expo app 👋
 

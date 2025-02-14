@@ -1,8 +1,8 @@
-**GROUP MEMBERS**
+## GROUP MEMBERS
 
-Joshua Raphael Gayoba
+## Joshua Raphael Gayoba
 
-Ira Llanto
+## Ira Llanto
 
 # Welcome to your Expo app 👋
 

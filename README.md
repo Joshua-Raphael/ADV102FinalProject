@@ -1,4 +1,4 @@
-GROUP MEMBERS /n
+GROUP MEMBERS \n
 #Joshua Raphael Gayoba
 
 # Welcome to your Expo app 👋
